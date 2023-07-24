@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sameera_oblig1</string>
+    <string name="palindromeTxtFelt">Skriv inn ord</string>
+    <string name="erPalindrome">er Palindrome</string>
+    <string name="erIkkePalindrome">er ikke Palindrome</string>
+    <string name="svarKnapp">Trykk for Svar</string>
+    <string name="tomInput">Ingen eller ugyldig input!</string>
+    <string name="UnitTxtFelt">Skriv inn volum</string>
+    <string-array name="EnhetsArray">
+        <item>Fluid ounce</item>
+        <item>Cup</item>
+        <item>Gallon</item>
+        <item>Hogshead</item>
+    </string-array>
+</resources>
+
+
